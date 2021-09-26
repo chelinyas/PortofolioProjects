@@ -1,5 +1,5 @@
 
---Cleanin Data
+--Cleaning Data
 
 -- Standardize Date Format
 
